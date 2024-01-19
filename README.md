@@ -1,4 +1,4 @@
-# Simple Quiz App
+# Simple Quiz App🧠
 
 Test your knowledge with this simple quiz app. Answer multiple-choice questions and see how well you score!
 
